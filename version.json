@@ -1,6 +1,6 @@
 {
-  "version": "4.0.1",
-  "url": "https://github.com/taz-o/G-Launcher-Releases/releases/download/v4.0.1/GLauncher.exe",
-  "sha256": "7ee14918f8f03d89479548c9a2f9550fc21bffb9bc08a8bcb94af54c07eb10a6",
-  "notes": "v4.0.1: სია მოქმედებაზე ახლდება და არა ტაიმერით"
+  "url": "https://github.com/taz-o/G-Launcher-Releases/releases/latest/download/GLauncher.exe",
+  "version": "4.1.0",
+  "sha256": "6ae2b10461369b6d92d1abf6974d716ed93758aaf93a1bc2d6703ee69dab6648",
+  "notes": "თემატური ხმები და ახალი წარწერა სათაურში"
 }
