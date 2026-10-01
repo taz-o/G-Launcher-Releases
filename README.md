@@ -9,6 +9,4 @@
 ---
 
 აქ მხოლოდ მზა ფაილები იდება — თითო გამოშვებაზე `GLauncher.exe` და
-`version.json` (განახლების არხი). ლაუნჩერს ადრე **Royal Roleplay** ერქვა და
-ეს repo — `royal-roleplay-releases`; v4.0.0–v4.3.0-ში ძველი ბმულისთვის
-`RoyalRoleplay.exe`-ის ასლიც იდებოდა.
+`version.json` (განახლების არხი).
