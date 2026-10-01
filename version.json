@@ -1,6 +1,6 @@
 {
-  "sha256": "a2ed9a2cf8c472ff2c38b9fdc9feb307a2e33cb72bcd97bda00adbf24d6af0bd",
-  "notes": "v4.2.1: კატეგორიები სიის სექციებად, ტოპ-3-ს სათაური დაუბრუნდა",
-  "version": "4.2.1",
+  "notes": "v4.3.0: ზომის შეცვლა, მორბენალი კიდე, თემატური ეკრანები",
+  "sha256": "67a12e6cbb6ae4f58599ce60b89e6ccfbb6bd3f4c9ec56b7af040cc9eec9a351",
+  "version": "4.3.0",
   "url": "https://github.com/taz-o/G-Launcher-Releases/releases/latest/download/GLauncher.exe"
 }
