@@ -1,6 +1,6 @@
 {
-  "version": "4.2.0",
-  "url": "https://github.com/taz-o/G-Launcher-Releases/releases/latest/download/GLauncher.exe",
-  "notes": "v4.2.0: ფავორიტები ზემოთ, კატეგორიები, დაჭერადი ბმულები",
-  "sha256": "c1bb0dd3544791eade0ad195f9766fb175b8478cbd17dd076d8b0922d37aeaf6"
+  "sha256": "a2ed9a2cf8c472ff2c38b9fdc9feb307a2e33cb72bcd97bda00adbf24d6af0bd",
+  "notes": "v4.2.1: კატეგორიები სიის სექციებად, ტოპ-3-ს სათაური დაუბრუნდა",
+  "version": "4.2.1",
+  "url": "https://github.com/taz-o/G-Launcher-Releases/releases/latest/download/GLauncher.exe"
 }
