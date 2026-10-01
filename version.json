@@ -1,6 +1,6 @@
 {
-  "url": "https://github.com/taz-o/royal-roleplay-releases/releases/latest/download/RoyalRoleplay.exe",
-  "version": "3.3.2",
-  "notes": "v3.3.2: ინტერფეისის ქართული გასწორდა",
-  "sha256": "26c177519aeaf385dd343b1d89730944698aa3b2cdc6c51118f5e0e8fdabd564"
+  "version": "4.0.1",
+  "url": "https://github.com/taz-o/G-Launcher-Releases/releases/download/v4.0.1/GLauncher.exe",
+  "sha256": "7ee14918f8f03d89479548c9a2f9550fc21bffb9bc08a8bcb94af54c07eb10a6",
+  "notes": "v4.0.1: სია მოქმედებაზე ახლდება და არა ტაიმერით"
 }
