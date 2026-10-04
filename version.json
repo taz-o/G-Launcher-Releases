@@ -1,6 +1,6 @@
 {
-  "notes": "G Launcher 4.5.0 — Discord-ით შესვლა, პროფილები, ბეიჯები, ფორუმი",
-  "version": "4.5.0",
-  "sha256": "d62bfd3a26471ee938ecb61ca4367e72605cf9aae0b9e2707735cfc0d610ee30",
+  "sha256": "02455b2e8008a4c7488140a3580bd0ec474be3d59a8fcabbfe7f23585d58e523",
+  "version": "4.5.1",
+  "notes": "G Launcher 4.5.1 — შესვლის გვერდის ახალი დიზაინი",
   "url": "https://github.com/taz-o/G-Launcher-Releases/releases/latest/download/GLauncher.exe"
 }
