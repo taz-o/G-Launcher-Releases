@@ -1,6 +1,6 @@
 {
-  "version": "4.4.0",
-  "sha256": "7d596669ce5c571b3f99e127b2fd777c7a5af9ad96521675db0827094ac297e1",
-  "url": "https://github.com/taz-o/G-Launcher-Releases/releases/latest/download/GLauncher.exe",
-  "notes": "v4.4.0: თამაშის არჩევა და სიახლეების სლაიდერი"
+  "sha256": "2a136fcddf3c880fd232905645780e9d666a0ef1a1eecb22b265712c6aa9f4a0",
+  "version": "4.4.1",
+  "notes": "v4.4.1: ლოგოთი არჩევაზე დაბრუნება, მომხმარებლების მთვლელი (Firebase)",
+  "url": "https://github.com/taz-o/G-Launcher-Releases/releases/latest/download/GLauncher.exe"
 }
