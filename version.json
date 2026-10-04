@@ -1,6 +1,6 @@
 {
-  "notes": "G Launcher 4.5.3 — Discord-ით შესვლა ჰოსტზე, ფიშინგისგან დაცვით",
-  "sha256": "06687301d7df966c890b35d3983d425e65b127a8893c0cff1fcccdb3d083f042",
-  "version": "4.5.3",
-  "url": "https://github.com/taz-o/G-Launcher-Releases/releases/latest/download/GLauncher.exe"
+  "version": "4.5.4",
+  "url": "https://github.com/taz-o/G-Launcher-Releases/releases/latest/download/GLauncher.exe",
+  "sha256": "b0a06b1ff22569c5f47538491d27d116a15136372f5967016e35bc8fb37253ef",
+  "notes": "G Launcher 4.5.4 — ⚙ ხელსაწყოები, RedM 128 კაციანი ლიმიტი, GTA სტილის ტოპ-3, თავისუფალი ზომა"
 }
