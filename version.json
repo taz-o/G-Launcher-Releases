@@ -1,6 +1,6 @@
 {
-  "sha256": "56ff42ce664069b732fb449127202b5e7e13616ff5f2add5b670e611212b50f4",
-  "url": "https://github.com/taz-o/G-Launcher-Releases/releases/latest/download/GLauncher.exe",
-  "notes": "v4.4.2: მომხმარებლების მთვლელი ჩაირთო, დაკლებული არჩევის ბარათები",
-  "version": "4.4.2"
+  "notes": "G Launcher 4.5.0 — Discord-ით შესვლა, პროფილები, ბეიჯები, ფორუმი",
+  "version": "4.5.0",
+  "sha256": "d62bfd3a26471ee938ecb61ca4367e72605cf9aae0b9e2707735cfc0d610ee30",
+  "url": "https://github.com/taz-o/G-Launcher-Releases/releases/latest/download/GLauncher.exe"
 }
