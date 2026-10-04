@@ -1,6 +1,6 @@
 {
-  "notes": "G Launcher 4.5.2 — შესვლის გვერდი ლოგოსა და წარწერის გარეშე",
-  "version": "4.5.2",
-  "url": "https://github.com/taz-o/G-Launcher-Releases/releases/latest/download/GLauncher.exe",
-  "sha256": "5e11d6720b85be27f8d9aafb4b4b906e763636eed8921e53aa5ec059402c989f"
+  "notes": "G Launcher 4.5.3 — Discord-ით შესვლა ჰოსტზე, ფიშინგისგან დაცვით",
+  "sha256": "06687301d7df966c890b35d3983d425e65b127a8893c0cff1fcccdb3d083f042",
+  "version": "4.5.3",
+  "url": "https://github.com/taz-o/G-Launcher-Releases/releases/latest/download/GLauncher.exe"
 }
