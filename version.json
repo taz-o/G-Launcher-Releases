@@ -1,6 +1,6 @@
 {
-  "notes": "v4.3.0: ზომის შეცვლა, მორბენალი კიდე, თემატური ეკრანები",
-  "sha256": "67a12e6cbb6ae4f58599ce60b89e6ccfbb6bd3f4c9ec56b7af040cc9eec9a351",
-  "version": "4.3.0",
-  "url": "https://github.com/taz-o/G-Launcher-Releases/releases/latest/download/GLauncher.exe"
+  "version": "4.4.0",
+  "sha256": "7d596669ce5c571b3f99e127b2fd777c7a5af9ad96521675db0827094ac297e1",
+  "url": "https://github.com/taz-o/G-Launcher-Releases/releases/latest/download/GLauncher.exe",
+  "notes": "v4.4.0: თამაშის არჩევა და სიახლეების სლაიდერი"
 }
