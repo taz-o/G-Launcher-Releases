@@ -1,6 +1,6 @@
 {
-  "sha256": "136094b844b912837cf4e7011f52e739b7eb63322ab945a042a95fd9187a8c4a",
-  "version": "4.5.5",
   "url": "https://github.com/taz-o/G-Launcher-Releases/releases/latest/download/GLauncher.exe",
-  "notes": "G Launcher 4.5.5 — სახელისა და ბექგრაუნდის შეცვლა, მყისიერი შენახვა და გამოსვლა"
+  "notes": "G Launcher 4.5.6 — სტატუსი, როლების იერარქია და სახელის ფერი, ავტომატური ბეიჯები",
+  "sha256": "1c4e6b04d3303a630b623baab3cd2311881a1c6e4c6b7729ecaa4731a09cb727",
+  "version": "4.5.6"
 }
